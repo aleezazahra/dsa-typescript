@@ -1,4 +1,4 @@
-- Time complexity is the realtion bw operations and input values in an algorithm , input can be of any type array , lists, strings or stuff
+Time complexity is the realtion bw operations and input values in an algorithm , input can be of any type array , lists, strings or stuff
 (slope of the graph is bascially the time complexity)
 
 
@@ -38,7 +38,10 @@ i.e O(log n)>>O (n) similarly 0(n log n) >> O(n^2)
 ### 7: O(n!):
 - rarely used 
 - worst of all XD
+
+
 ![alt text](image-1.png)
+
 ![alt text](image.png)
 
 
